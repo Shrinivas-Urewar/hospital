@@ -1,0 +1,13 @@
+{
+  "hospitals": [
+    {
+      "id": "hosp_1",
+      "name": "General Hospital"
+    }
+  ],
+  "admins": [],
+  "doctors": [],
+  "attendants": [],
+  "patients": [],
+  "appointments": []
+}
